@@ -12,7 +12,7 @@ If you find our code useful for your research, please kindly cite our paper.
 @article{chen2022distribution,
   title={Distribution-Aware Graph Representation Learning for Transient Stability Assessment of Power System},
   author={Chen, Kaixuan and Liu, Shunyu and Yu, Na and Yan, Rong and Zhang, Quan and Song, Jie and Feng, Zunlei and Song, Mingli},
-  journal={arXiv preprint arXiv:2205.06576},
+  journal={International Joint Conference on Neural Networks (IJCNN)},
   year={2022}
 }
 
