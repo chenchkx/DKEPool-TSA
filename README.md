@@ -16,7 +16,7 @@ If you find our code useful for your research, please kindly cite our paper.
   year={2022}
 }
 
-@article{chen2021distribution,
+@article{chen2022DKEPool,
   title={Distribution Knowledge Embedding for Graph Pooling},
   author={Chen, Kaixuan and Song, Jie and Liu, Shunyu and Yu, Na and Feng, Zunlei and Han, Gengshi and Song, Mingli},
   journal={IEEE Transactions on Knowledge and Data Engineering},
