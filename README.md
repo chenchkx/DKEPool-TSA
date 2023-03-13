@@ -9,11 +9,12 @@ Created by [Kaixuan Chen](chenkx@zju.edu.cn) (chenkx@zju.edu.cn, chenkx.jsh@aliy
 
 If you find our code useful for your research, please kindly cite our paper.
 ```
-@article{chen2022distribution,
+@inproceedings{chen2022distribution,
   title={Distribution-Aware Graph Representation Learning for Transient Stability Assessment of Power System},
   author={Chen, Kaixuan and Liu, Shunyu and Yu, Na and Yan, Rong and Zhang, Quan and Song, Jie and Feng, Zunlei and Song, Mingli},
-  journal={International Joint Conference on Neural Networks (IJCNN)},
-  year={2022}
+  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
+  year={2022},
+  organization={IEEE}
 }
 
 @article{chen2022DKEPool,
