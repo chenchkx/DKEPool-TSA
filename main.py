@@ -180,7 +180,6 @@ def main():
 
         avg_loss = train(args, model, device, train_graphs, optimizer, epoch)
         acc_test, pred_test = test(args, model, device, train_graphs, test_graphs, epoch)
-        optimizer.step()
         # print(model.state_dict())
         F1, acc, tnr, tpr = performance(pred_test, test_label)
         if acc > max_acc:
